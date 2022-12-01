@@ -5,6 +5,8 @@
 - 📫 How to reach me: @Sirius242 on Twitter
 - 📌 I'm from: France, but live in Tokyo
 - 🏢 I'm working as: Dev Ops for `[REDACTED]`
+- 🗣️ Spoken Languages: FR, ENG, 日本語もOK.
+- 🔰 Learning to speak: :indonesia: Indonesian, :kr: Korean
 <!---
 Siriusa77II/Siriusa77II is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
